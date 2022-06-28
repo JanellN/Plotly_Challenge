@@ -174,3 +174,4 @@ function buildBarChart(sample) {
         
         });
       }
+      
